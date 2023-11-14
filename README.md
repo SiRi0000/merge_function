@@ -16,6 +16,18 @@ cd merge-function
 npm install
 ```
 
+## Compiling TypeScript
+
+Compile the TypeScript files to JavaScript using the TypeScript compiler.
+
+```bash
+npx tsc
+```
+
+## Run the code
+
+To run the merged function code, you will need to create a script or execute it from a TypeScript file that imports the `merge` function. This instruction assumes you are running the function from within a TypeScript file.
+
 ## Running Unit Tests
 
 This project uses Jest for unit testing. To run the tests, execute the following command:
