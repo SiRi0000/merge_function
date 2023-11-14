@@ -14,3 +14,12 @@ To set up the project, clone the repository and install the dependencies.
 git clone https://github.com/SiRi0000/merge_function.git
 cd typescript-merge-function
 npm install
+```
+
+## Running Unit Tests
+
+This project uses Jest for unit testing. To run the tests, execute the following command:
+
+```bash
+npm test
+```
