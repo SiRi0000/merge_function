@@ -10,7 +10,6 @@ export default function merge(collection_1: number[], collection_2: number[]): n
         let i = 0, j = 0;
         const result: number[] = [];
 
-
         while (i < collection_1.length && j < collection_2.length) {
             if (collection_1[i] < collection_2[j]) {
                 result.push(collection_1[i]);
