@@ -12,7 +12,7 @@ To set up the project, clone the repository and install the dependencies.
 
 ```bash
 git clone https://github.com/SiRi0000/merge_function.git
-cd typescript-merge-function
+cd merge-function
 npm install
 ```
 
