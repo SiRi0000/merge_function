@@ -11,6 +11,6 @@ Before you begin, ensure you have [Node.js](https://nodejs.org/) installed on yo
 To set up the project, clone the repository and install the dependencies.
 
 ```bash
-git clone 
+git clone https://github.com/SiRi0000/merge_function.git
 cd typescript-merge-function
 npm install
